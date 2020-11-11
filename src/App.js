@@ -14,7 +14,7 @@ class App extends Component {
       </nav>
       <h1>머터리얼 CSS</h1>
       </div>
-    )
+    );
     
   }
 }
